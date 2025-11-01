@@ -3,6 +3,8 @@
 Hello and thank you for checking out my first Cinnamon desklet!
 This is a simple stock ticker viewer designed to save you time checking the market.
 
+![Stock Viewer](https://i.postimg.cc/sXLFd00D/Zrzut-ekranu-z-2025-11-01-21-22.png)
+
 ## Installation
 1. Download or clone the repository into your Cinnamon desklets folder:
 
