@@ -36,7 +36,7 @@ StockDesklet.prototype = {
             this.container.destroy_all_children();
 
             if (err) {
-                this.container.add_child(new St.Label({ text: "Błąd: " + err }));
+                this.container.add_child(new St.Label({ text: "Error: " + err }));
                 return;
             }
 
