@@ -1,0 +1,11 @@
+Thank you for checking out my first cinnamon desklet.
+It's a simple ticker viewer to save some time on checking the market.
+
+TO START - Get your API key on finnhub at https://finnhub.io/ and put it into the 6th line of api.js.
+Don't use too many tickers, as it will slow down the loading speed (I reccommend using 3-7).
+You can change them in tickers.json.
+
+The refresh rate is set for every 5 minutes in desklet.js, 
+changing it may cause loading problems as the API has some limits.
+
+If any loading errors appear while you refresh the desklet, its probably due to API limits.

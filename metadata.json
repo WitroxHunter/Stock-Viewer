@@ -1,0 +1,9 @@
+{
+    "uuid": "stock-viewer@Wiktor-ThinkPad-E480",
+    "name": "Stock Viewer",
+    "description": "Creates a table of your favorite stock prices.",
+    "prevent-decorations": false,
+
+    "version": 1,
+    "max-instances": 1
+}

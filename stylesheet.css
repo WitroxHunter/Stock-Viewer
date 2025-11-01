@@ -1,0 +1,13 @@
+.stock-container {
+    background-color: rgba(0,0,0,0.2); /* BG CONFIG */
+    border-radius: 10px;
+    padding: 0;
+}
+
+St.BoxLayout {
+    background-color: transparent; 
+}
+
+St.Label {
+    background-color: transparent; 
+}
